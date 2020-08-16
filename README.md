@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello there <img src="https://github.com/Aptcoder/Aptcoder/blob/master/Hello%20there.gif" width="30px" />
 
 <!--
 **Aptcoder/Aptcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ Mucho gusto hoy. Yup, you saw it, I know a bit of spanish. I am Samuel, a software developer with a lot to learn :sweat_smile: . 
+ 
+ I currently am exploring the awesomeness of Javascript and the Node js engine.
+ 
+ I enjoy being part of cool solutions to world problems.
+ 
+ Need me to be part of something cool? I can be found on twitter @aptcoder 
