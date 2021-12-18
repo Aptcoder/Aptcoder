@@ -20,4 +20,4 @@ Here are some ideas to get you started:
  
  I enjoy being part of cool solutions to world problems.
  
- Need me to be part of something cool? I can be found on twitter [@Aptcoder](https://twitter.com/Aptcoder) 
+ Need me to be part of something cool? I can be found on twitter [@the4thmilz](https://twitter.com/the4thmilz) 
