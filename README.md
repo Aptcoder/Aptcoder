@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Mucho gusto hoy. Yup, you saw it, I know a bit of spanish. I am Samuel, a software developer with a lot to learn :sweat_smile: . 
+ Mucho gusto hoy. Yup, I know a bit of spanish. I am Samuel, a software developer with a lot to learn :sweat_smile: . 
  
  I currently am exploring the awesomeness of Javascript and the Node js engine.
  
