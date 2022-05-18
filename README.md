@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Mucho gusto hoy. Yup, I know a bit of spanish. I am Samuel, a software developer with a lot to learn :sweat_smile: . 
+ I am Samuel, a software developer with a lot to learn :sweat_smile: . 
  
  I currently am exploring the awesomeness of Javascript and the Node js engine.
  
- I enjoy being part of cool solutions to world problems.
+ I enjoy being part of performant solutions to world problems.
  
  Need me to be part of something cool? I can be found on twitter [@the4thmilz](https://twitter.com/milzthe4th) 
