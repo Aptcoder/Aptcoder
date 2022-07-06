@@ -1,5 +1,4 @@
-## Hello there <img src="https://github.com/Aptcoder/Aptcoder/blob/master/Hello%20there.gif" width="30px" />
-
+## Hello there :)
 <!--
 **Aptcoder/Aptcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
